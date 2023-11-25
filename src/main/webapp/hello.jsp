@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="hello">
-<input type="text" name="name" placeholder="enter you name">
+<input type="text" name="name" placeholder="enter your name">
 <button type="submit"> submit</button>
 </form>
 </body>
